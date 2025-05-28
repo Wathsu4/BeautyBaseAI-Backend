@@ -1,0 +1,25 @@
+#Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+env/
+venv/
+pip-selfcheck.json
+*.egg-info/
+dist/
+build/
+
+#IDEs
+.vscode/
+.idea/
+
+# Secrets
+.env
+*.pem
+*.key
+
+# OS generated files
+.DS_Store
+Thumbs.db
